@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "LearnReact",
+    "slug": "LearnReact",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
